@@ -1,6 +1,6 @@
-# HSA-science Dataset
+# HSAR-science Dataset
 
-This repository hosts tutorials for data analysis and machine learning modeling using the HSA (High School Assessment) dataset in Python. This project aims to analyze students' academic performance in high school as reported by the HSA dataset. The analysis focuses on exploring relationships between gender, regional factors, GPA scores, and HSA performance. Machine learning models will be trained to predict student performance outcomes. The prediction performance will be evaluated using various metrics including accuracy, precision, recall, and F1-score. The code is written in Python with Jupyter notebooks for interactive analysis.
+This repository hosts tutorials for data analysis and machine learning modeling using the HSA (Highschool Student Assessment) dataset in Python. This project aims to analyze students' academic performance in high school as reported by the HSAR dataset. The analysis focuses on exploring relationships between gender, regional factors, GPA scores, and HSA performance. Machine learning models will be trained to predict student performance outcomes. The prediction performance will be evaluated using various metrics including accuracy, precision, recall, and F1-score. The code is written in Python with Jupyter notebooks for interactive analysis.
 
 ## Dataset Description
 
@@ -8,7 +8,7 @@ The HSA-science dataset supports research in educational data mining, learning a
 
 ## Steps for Data Analysis and Machine Learning with HSA Dataset
 
-### 1. Download the HSA Dataset
+### 1. Download the HSAR Dataset
 
 Use the DOI link from the Zenodo repository to access the HSA dataset: https://doi.org/10.5281/zenodo.16752430. The dataset includes:
 - `HSA_dataset.xlsx` - Main dataset file (31.8 MB)
